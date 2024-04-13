@@ -1,4 +1,4 @@
-# Colorblind Drawing Experience
+# Sketch Swap (Previously 'Colorblind Drawing Experience')
 
 I origionally created this app for the 2024 Swift Student Challenge (where I won a prize) to showcase how colorblindness can impact people's lives. The app aims to foster empathy and raise awareness about the challenges faced by colorblind individuals. I clearly remember the difficulties as a small child a school having to color in drawings and not knowing what the colors were. Fortunately my parents knew I was colorblind, and therefore so did I and my teachers, but many do not until later in life. 
 
