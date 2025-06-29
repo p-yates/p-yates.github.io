@@ -1,4 +1,4 @@
-# Savings app
+# Appiggy - Savings app
 
 ## Support / Contact
 
@@ -18,3 +18,12 @@ paulyatesdev@gmail.com
 
 Tutti i dati (come il valore dei tuoi risparmi) sono archiviati localmente sul tuo dispositivo e non sono accessibili agli sviluppatori dell'app.
 
+## Français
+
+### Contact
+
+paulyatesdev@gmail.com
+
+## Politique de confidentialité
+
+Toutes les données (telles que la valeur de tes économies) sont stockées localement sur ton appareil et ne sont pas accessibles aux développeurs de l'app.
